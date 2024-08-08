@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For My Love</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>For My Love</h1>
+            <p>To the most amazing boyfriend in the world</p>
+        </header>
+
+        <section class="messages">
+            <div class="message">
+                <h2>You Light Up My World</h2>
+                <p>Your smile is the sunshine in my life, and your love is the spark that keeps my heart glowing.</p>
+            </div>
+            <div class="message">
+                <h2>You Are My Everything</h2>
+                <p>Every moment with you is a blessing. I am so grateful for your love and the joy you bring into my life.</p>
+            </div>
+            <div class="message">
+                <h2>Forever and Always</h2>
+                <p>With you, I see a beautiful future filled with love, laughter, and endless happiness. I love you more than words can express.</p>
+            </div>
+        </section>
+
+        <footer>
+            <p>With all my love, [Your Name]</p>
+        </footer>
+    </div>
+</body>
+</html>
